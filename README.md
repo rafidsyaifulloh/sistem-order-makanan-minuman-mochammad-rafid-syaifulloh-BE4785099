@@ -1,0 +1,2 @@
+# sistem-order-makanan-minuman-mochammad-rafid-syaifulloh-BE4785099![Proses order makananminuman via online_flowchart](https://user-images.githubusercontent.com/127618755/225634871-c4d12e0f-96cc-497e-a5ea-bb2f4ecadd72.png)
+[Proses order makananminuman via online_Pseudocode.txt](https://github.com/rafidsyaifulloh/sistem-order-makanan-minuman-mochammad-rafid-syaifulloh-BE4785099/files/10991408/Proses.order.makananminuman.via.online_Pseudocode.txt)
